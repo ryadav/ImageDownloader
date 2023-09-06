@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'ImageDownloader_Example' do
+  pod 'ImageDownloader', :path => '../'
+
+  target 'ImageDownloader_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
