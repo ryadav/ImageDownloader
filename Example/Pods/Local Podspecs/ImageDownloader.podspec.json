@@ -1,0 +1,22 @@
+{
+  "name": "ImageDownloader",
+  "version": "0.1.0",
+  "summary": "A short description of ImageDownloader.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Rahul Yadav/ImageDownloader",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Rahul Yadav": "rahulyadav44it@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Rahul Yadav/ImageDownloader.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ImageDownloader/Classes/**/*"
+}

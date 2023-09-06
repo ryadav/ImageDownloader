@@ -1,0 +1,16 @@
+PODS:
+  - ImageDownloader (0.1.0)
+
+DEPENDENCIES:
+  - ImageDownloader (from `../`)
+
+EXTERNAL SOURCES:
+  ImageDownloader:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ImageDownloader: 45ac57f3cd473c1cd1face749c104258a43e652f
+
+PODFILE CHECKSUM: 06a9423e5d3373a798c85a1305c041e432ba1309
+
+COCOAPODS: 1.12.1
